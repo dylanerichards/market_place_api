@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'active_model_serializers'
 gem 'devise'
+gem 'shoulda-matchers'
 
 group :development, :test do
   gem 'byebug'
